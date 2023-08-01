@@ -1,0 +1,13 @@
+Wizard
+App ascet read only, filter only show up ascet app in the project and referenced project
+If no app selected, error message
+Version if not installed, warning.
+Config text box, remove new button, if no config file, error message show up, if config file not existe, warning message show up appy ...
+The app can detect whether theconfig file contains both a2l and hex file or not.
+EhooksEditor
+Show read/write message
+Column type, sort, array improve ment
+- if user click auto map or auto map and get function
+And focus on properties view if properties view has errors. Connection view is the same 
+Tri improve in ... Filter ecu variable
+Schedudling tab. Dispatch point
