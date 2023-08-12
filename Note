@@ -24,3 +24,7 @@ If "Use element unit for formula definition " option is unselected, the @a2l_uni
 the element @a2l_unit_label( "some unit') annotation, shall be ignored. 
 
 Otherwise. n will override the unit attribute in corresponding CY)JklPU_IKflHOD.
+
+If "Use element unit for formula definition " option is selected, the unit type of an element will show up in the unit attribute of COMPU_METHOD section. The unit type of an element is determined by 3 factors which are @a2l_unit_label on a element, @a2l_unit_label on a formula, and the actual unit type of an element. 
+Firstly, The displayed.. will be mapped to the unit value of @a2l_unit_label on a element. If ...not exist.., The displayed.. will be mapped to the unit value of @a2l_unit_label on a element.
+The precedence is as @a2l_unit_label on a element, @a2l_unit_label on a formula, and the actual unit type of an element. 
