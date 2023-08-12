@@ -11,3 +11,16 @@ Column type, sort, array improve ment
 And focus on properties view if properties view has errors. Connection view is the same 
 Tri improve in ... Filter ecu variable
 Schedudling tab. Dispatch point
+
+
+
+
+If "Use element unit for formula definition " option is selected, the unit type of an element will show up in the unit attribute of COMPU_METHOD section. The unit type of an element is determined by 3 factors which are @a2l_unit_label on a element, @a2l_unit_label on a formula, and the actual unit type of an element. The precedence is as @a2l_unit_label on a element, @a2l_unit_label on a formula, and the actual unit type of an element.
+For example
+
+If "Use element unit for formula definition " option is unselected, the @a2l_unit_label on element, @a2l_unit_label on a formula, and the actual unit type of an element shall be ignored
+
+
+the element @a2l_unit_label( "some unit') annotation, shall be ignored. 
+
+Otherwise. n will override the unit attribute in corresponding CY)JklPU_IKflHOD.
